@@ -1,7 +1,7 @@
 {
   "name": "personal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@monorepo/ui": "1.0.0"
+    "@monorepo/ui": "1.1.0"
   }
 }

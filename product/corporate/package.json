@@ -1,0 +1,7 @@
+{
+  "name": "corporate",
+  "version": "1.0.0",
+  "dependencies": {
+    "@monorepo/ui": "1.0.0"
+  }
+}

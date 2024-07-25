@@ -1,3 +1,3 @@
 module.exports = {
-  getYear: () => "2023",
+  getYear: () => "2024",
 };
